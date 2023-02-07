@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "shope",
+    "slug": "shope",
+    "version": "1.0.0",
+    "plugins":[
+      ["react-native-fbsdk-next",{
+      "appID":"3549849155236685",
+      "clientToken":"e390c15a956112baa743d0781f25b83c",
+      "displayName":"shope"
+    }]
+  ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.banku89.shope"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7de1d8fd-648e-4da5-8145-6e02a501b521"
+      }
+    }
+  }
+}

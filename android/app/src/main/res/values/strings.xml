@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">shope</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_client_token">e390c15a956112baa743d0781f25b83c</string>
+  <string name="fb_login_protocol_scheme">fb3549849155236685</string>
+  <string name="facebook_app_id">3549849155236685</string>
+</resources>
